@@ -19,7 +19,6 @@
 }
 
 .float_center{
-    float: right;
     position: relative;
     left: -50%;
     text-align: left;
