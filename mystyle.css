@@ -18,6 +18,10 @@
     text-align: left;
 }
 
+.float_center{
+    position: relative;
+    left: 50%;
+}
 
 
 
