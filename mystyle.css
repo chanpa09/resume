@@ -2,11 +2,12 @@
     width: 20%;
     height: 300px;
     text-align: right;
+    float: left;
 }
 
 #div_top{
     width: 100%;
-    height: 100px;;
+    height: 100px;
     text-align: center;
 }
 
@@ -14,6 +15,7 @@
     width: 80%;
     height: 300px;
     text-align: left;
+    float: left;
 }
 
 .float_center{
